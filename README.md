@@ -4,7 +4,7 @@ Team 2
 
 Mentor by : Ajith Kumar S
 
-Team Leader : Praneet
+Team Leader : Anuj Kumar
 
 Team Members : Praneet, Rengadurai, Shreshtha, Tressa, Nitish A, Devansh
 
